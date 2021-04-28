@@ -1,0 +1,7 @@
+1 Gurkirat 79 CSE
+2 Aditya 64 CSE
+3 Aditya 32 CSE
+4 Aditya 66 ECE
+5 Aditya 77 CSE
+6 Adarsh 77 CSE
+7 TNA 88 BIOTECH
